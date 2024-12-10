@@ -3,5 +3,6 @@
 
 Установите зависимости:
 `pip install -r requirements.txt`
-Запустите сервер:
+
+Запустите серверa:
 `uvicorn app.main:app --reload`
